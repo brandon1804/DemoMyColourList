@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo My Colour List</string>
+    <string name="ETC">Enter new colour</string>
+    <string name="ETI">Enter position number</string>
+    <string name="BAC">Add New Colour</string>
+    <string name="RAC">Remove a Colour</string>
+    <string name="UAC">Update a Colour</string>
+</resources>
